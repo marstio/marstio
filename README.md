@@ -1,4 +1,4 @@
-# Welcome to my Personal Digital Circus
+# Welcome to my Personal Digital Circus 🎪
 
 <h2>
   <img src="./assets/Undertale-heart.png" width="32" alt="Undertale Soul" style="vertical-align: middle;">
@@ -7,7 +7,7 @@
 
 A graduating CS student (Data Science track) based in the Philippines.
 
----
+<div><hr style="border: none; border-top: 1px solid var(--color-border-default, #30363d); margin: 20px 0;"></div>
 
 I'm deeply passionate about computer science and building things that are visually clean and highly functional. My main toolkit for full-stack web development includes **React**, **TypeScript**, **Next.js**, and **Java**.
 
@@ -30,7 +30,8 @@ You can check out my full portfolio and projects at <a href="https://www.julianr
 
 <br>
 
-<div align="center">
-  <img src="./assets/umaru-comp.gif" alt="Umaru typing GIF" style="width: 100%; max-width: 850px; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
-  
+<br>
+
+<div style="display: block; width: 100%; clear: both; text-align: center;">
+  <img src="./assets/umaru-comp.gif" alt="Umaru typing GIF" style="display: block; width: 100%; max-width: 850px; height: 150px; object-fit: cover; border-radius: 8px; margin: 0 auto 15px auto;">
 </div>
