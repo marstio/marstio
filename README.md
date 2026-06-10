@@ -5,9 +5,9 @@
   <span style="vertical-align: middle;">I'm Julian (aka marstio),</span>
 </h2>
 
+<h4>
 A graduating CS student (Data Science track) based in the Philippines.
-
-<div><hr style="border: none; border-top: 1px solid var(--color-border-default, #30363d); margin: 20px 0;"></div>
+</h4>
 
 I'm deeply passionate about computer science and building things that are visually clean and highly functional. My main toolkit for full-stack web development includes **React**, **TypeScript**, **Next.js**, and **Java**.
 
@@ -30,8 +30,6 @@ You can check out my full portfolio and projects at <a href="https://www.julianr
 
 <br>
 
-<br>
-
-<div style="display: block; width: 100%; clear: both; text-align: center;">
-  <img src="./assets/umaru-comp.gif" alt="Umaru typing GIF" style="display: block; width: 100%; max-width: 850px; height: 150px; object-fit: cover; border-radius: 8px; margin: 0 auto 15px auto;">
-</div>
+<p align="center">
+  <img src="./assets/umaru-comp2.gif" style="width: 100%; border-radius: 8px;" alt="Umaru typing GIF">
+</p>
