@@ -1,8 +1,7 @@
 # Welcome to my Personal Digital Circus 🎪
 
 <h2>
-  <img src="./assets/Undertale-heart.png" width="32" alt="Undertale Soul" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">I'm Julian (aka marstio),</span>
+  <img src="./assets/Undertale-heart.png" width="32" align="center"> I'm Julian (aka marstio),
 </h2>
 
 <h4>
@@ -14,7 +13,9 @@ I'm deeply passionate about computer science and building things that are visual
 A major focus of my academic work is my senior thesis, where I apply **Random Forest** and **XGBoost** for spatial bias mitigation in Philippine urban-rural flood risk prediction. On the industry side, I recently completed an internship at Amdocs where I developed a centralized Server Environment Monitor for Korean Telecom.
 <br>
 
-<h3><img src="./assets/star.gif" width="28" alt="pixel star" style="vertical-align: middle;"> Currently Working On:</h3>
+<h3>
+  <img src="./assets/star.gif" width="30" align="absmiddle"> Currently Working On:
+</h3>
 
 - **Commit:** A developer-centric habit tracker and journal.
 - **Angat Bayanihan:** Building frontend features for a grassroots volunteer microsite.
@@ -23,7 +24,9 @@ A major focus of my academic work is my senior thesis, where I apply **Random Fo
 You can check out my full portfolio and projects at <a href="https://www.julianramirez.site">julianramirez.site</a>.
 <br>
 
-<h3><img src="./assets/fun.gif" width="28" alt="Azumanga" style="vertical-align: middle;"> Fun Facts:</h3>
+<h3>
+  <img src="./assets/fun.gif" width="30" align="absmiddle"> Fun Facts:
+</h3>
 
 - I'm a massive fan of story-driven and atmospheric games. You will usually find me playing titles like _Undertale_, _Until Then_, _Five Nights at Freddy's_, _Final Fantasy_, or _Detroit: Become Human_.
 - You can occasionally find me on TikTok <a href="https://www.tiktok.com/@joolean">@joolean</a>.
