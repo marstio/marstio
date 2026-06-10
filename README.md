@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to my Personal Digital Circus
 
-<!--
-**marstio/marstio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  <img src="./assets/Undertale-heart.png" width="32" alt="Undertale Soul" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">I'm Julian (aka marstio),</span>
+</h2>
 
-Here are some ideas to get you started:
+A graduating CS student (Data Science track) based in the Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm deeply passionate about computer science and building things that are visually clean and highly functional. My main toolkit for full-stack web development includes **React**, **TypeScript**, **Next.js**, and **Java**.
+
+A major focus of my academic work is my senior thesis, where I apply **Random Forest** and **XGBoost** for spatial bias mitigation in Philippine urban-rural flood risk prediction. On the industry side, I recently completed an internship at Amdocs where I developed a centralized Server Environment Monitor for Korean Telecom.
+<br>
+
+<h3><img src="./assets/star.gif" width="28" alt="pixel star" style="vertical-align: middle;"> Currently Working On:</h3>
+
+- **Commit:** A developer-centric habit tracker and journal.
+- **Angat Bayanihan:** Building frontend features for a grassroots volunteer microsite.
+- **Steam NLP Analysis:** Developing a data science project analyzing Steam reviews to extract player sentiment, genre preferences, and gaming jargon.
+
+You can check out my full portfolio and projects at <a href="https://www.julianramirez.site">julianramirez.site</a>.
+<br>
+
+<h3><img src="./assets/fun.gif" width="28" alt="Azumanga" style="vertical-align: middle;"> Fun Facts:</h3>
+
+- I'm a massive fan of story-driven and atmospheric games. You will usually find me playing titles like _Undertale_, _Until Then_, _Five Nights at Freddy's_, _Final Fantasy_, or _Detroit: Become Human_.
+- You can occasionally find me on TikTok <a href="https://www.tiktok.com/@joolean">@joolean</a>.
+
+<br>
+
+<div align="center">
+  <img src="./assets/umaru-comp.gif" alt="Umaru typing GIF" style="width: 100%; max-width: 850px; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
+  
+</div>
